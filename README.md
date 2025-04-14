@@ -82,6 +82,17 @@ To obtain your authentication token:
 4. Copy the token value (without quotes)
 5. Paste it into your `token.txt` file
 
+## Pre-requisites for setup.js:
+
+Create a WalletX.json and fill it with
+```json
+  {
+    "address": "YOUR_ADDRESS",
+    "privateKey": "YOUR_PRIVATE_KEY"
+  }
+```
+Fill it as much as you want
+
 ## ⚠️ Disclaimer
 
 This bot is provided for educational purposes only. Use of automated scripts may violate Fishing Frenzy's terms of service. Use at your own risk.
