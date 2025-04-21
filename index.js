@@ -15,7 +15,7 @@ const config = {
   authToken: authToken,
   apiBaseUrl: 'https://api.fishingfrenzy.co',
   wsUrl: 'wss://api.fishingfrenzy.co',
-  fishingRange: 'mid_range', 
+  fishingRange: 'long_range', 
   is5x: false,
   delayBetweenFishing: 5000,
   retryDelay: 30000,
